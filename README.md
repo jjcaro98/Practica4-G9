@@ -2,7 +2,7 @@
 
 
 
-## Juan José Caro Agudelo  David Henao
+## Juan José Caro Agudelo - David Henao
 ## Practica 4. Análisis Forense
 
 ### [Autopsy](https://github.com/jjcaro98/Practica4-G9/tree/master/Autopsy)
